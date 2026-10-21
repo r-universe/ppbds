@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "learnr2"]
+	path = learnr2
+	url = https://github.com/ppbds/learnr2
 [submodule "positron.tutorials"]
 	path = positron.tutorials
 	url = https://github.com/ppbds/positron.tutorials
